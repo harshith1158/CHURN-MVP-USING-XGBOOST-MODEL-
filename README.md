@@ -1,6 +1,5 @@
 
-# CHURN-MVP-USING-XGBOOST-MODEL(URL : https://churnpredictor1.streamlit.app/)
-
+# CHURN-MVP-USING-XGBOOST-MODEL
 Streamlit dashboard that visualizes customer churn probabilities and health scores.
 
 Quick start (local)
